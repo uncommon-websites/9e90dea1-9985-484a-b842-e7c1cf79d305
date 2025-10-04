@@ -82,5 +82,17 @@
 		}
 	]}
 />
-<AboutTeaser generating />
-<CallToAction generating />
+<AboutTeaser />
+<CallToAction
+	title="Stop settling for @kyle_2847"
+	subtitle="Claim your identity"
+	description="Join thousands of engineers building memorable personal brands on tech Twitter. Get a pronounceable username that opens doors, not eyes rolling."
+	imageSrc="/generated/image-a-small-group-of-friends-diverse-3-5-peo.webp"
+	callsToAction={[
+		{
+			href: "/get-started",
+			label: "Find your username",
+			variant: "primary"
+		}
+	]}
+/>
